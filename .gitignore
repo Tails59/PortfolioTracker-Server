@@ -1,6 +1,9 @@
 #IDE Project Settings
 .idea/
 
+#Compiled JavaScript files
+*.js
+
 # Logs
 logs
 *.log
