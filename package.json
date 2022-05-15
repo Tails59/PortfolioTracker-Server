@@ -1,0 +1,23 @@
+{
+  "name": "stocktracker-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tails59/StockTracker-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tails59/StockTracker-Server/issues"
+  },
+  "homepage": "https://github.com/Tails59/StockTracker-Server#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
