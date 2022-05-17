@@ -1,6 +1,9 @@
 #IDE Project Settings
 .idea/
 
+#MongoDB Atlas Credentials
+src/service/credentials.ts
+
 # Logs
 logs
 *.log
