@@ -1,5 +1,5 @@
 {
-  "name": "stocktracker-server",
+  "name": "portfoliotracker-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,16 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tails59/StockTracker-Server.git"
+    "url": "git+https://github.com/Tails59/PortfolioTracker-Server.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Tails59/StockTracker-Server/issues"
+    "url": "https://github.com/Tails59/PortfolioTracker-Server/issues"
   },
-  "homepage": "https://github.com/Tails59/StockTracker-Server#readme",
+  "homepage": "https://github.com/Tails59/PortfolioTracker-Server#readme",
   "devDependencies": {
+    "ts-node": "^10.7.0",
     "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.3"
   }
 }
